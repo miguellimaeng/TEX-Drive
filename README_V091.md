@@ -1,0 +1,2 @@
+# V0.9.1 — Dark Edition
+Tema escuro fixo, sem alternância automática ou manual para claro. Modo leve preservado, inclusive mapa escuro. Cache atualizado. Demais módulos preservados. Teste no iPad pendente.
